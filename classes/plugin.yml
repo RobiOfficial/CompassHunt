@@ -1,0 +1,11 @@
+name: "CompassHunt"
+version: "1.0.0"
+main: "vb.$compasshunt.PluginMain"
+api-version: 1.13
+authors: [RobiOfficial]
+description: "Track players with a compass!"
+website: "https://github.com/RobiOfficial/CompassHunt"
+commands:
+  hunt:
+    description: "Usage: /hunt <player>"
+permissions:
