@@ -1,5 +1,6 @@
 # CompassHunt
 ![CompassHunt](https://i.imgur.com/Opwl8Gh.png)
+![CHIcon](https://www.spigotmc.org/data/resource_icons/107/107004.jpg)
 
 This plugin adds a command and the ability to hunt other players using a compass. This is a perfect little feature for Factions or Survival games servers.
 
@@ -8,8 +9,7 @@ This plugin adds a command and the ability to hunt other players using a compass
 
 # How does it work?
 
-Players can track any other online player. To get a tracking compass a player has to use **/hunt (player>** command. Command will give a compass which is named after a player that you want to track. If you right-click the compass it will start tracking a player that you chose and will send you a message:
-'[CompassHunt] Tracking: (username)'
+o track an online player you can just use /hunt <player>. This command will give you a compass named after a player you wish to track. When a player right-clicks the compass, a message will be shown on chat for you and then just follow the compass.
 
 
 # Commands & Permissions
