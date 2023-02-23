@@ -20,7 +20,7 @@ o track an online player you can just use /hunt <player>. This command will give
 - **/hunt (player)** - Get a compass that tracks a specific player's location.
 ![CMPLAYERHUNT](https://i.imgur.com/MLQlu4y.png)
 
-> This plugin does not have any permissions.
+> **Since v1.2.0 there is a permission (compasshunt.player). With this update, permission was added to the plugin. This gives an opportunity to limit the rights of who can use it, and since version 1.2.0, permission must be added to the player or rank to use the compass. **Without permission, the command will not be visible to players.**
 
 # Installation
 - Stop your server.
