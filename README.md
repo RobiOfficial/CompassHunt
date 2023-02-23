@@ -4,7 +4,6 @@
 
 This plugin adds a command and the ability to hunt other players using a compass. This is a perfect little feature for Factions or Survival games servers.
 
-- **Discord server:** https://discord.gg/sNkDJaeTQv
 - **Issues:** https://github.com/RobiOfficial/CompassHunt/issues
 
 # How does it work?
