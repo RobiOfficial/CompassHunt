@@ -1,6 +1,7 @@
 ![CompassHunt Logo](https://i.imgur.com/3g3hEVL.png)
 
-# 🧭 CompassHunt Plugin
+
+# 🧭 CompassHunt Plugin ![Downloads](https://img.shields.io/spiget/downloads/107004)
 
 This simple Compass Hunt plugin adds a command and the ability to **track online player locations using a compass**. It's a great feature or addon for **factions** or **survival servers**.
 
